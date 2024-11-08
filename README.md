@@ -48,3 +48,4 @@ hobbies/interests (main) $ ls
     🌶 Cooking
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magretadekunle&show_icons=true&locale=en" alt="magretadekunle" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magretadekunle&hide_progress=true)
