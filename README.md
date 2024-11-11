@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Magret Adekunle</h1>
+<h1 align="center">Hey there 👋🏿, I'm Magret Adekunle</h1>
 <!-- <h3 align="center">Front-End @ Mathison Projects</h3>
  -->
 <p align="left"> <a href="https://www.linkedin.com/in/magret-adekunle" target="blank"><img src="https://img.shields.io/twitter/follow/magretadekunle?logo=twitter&style=for-the-badge" alt="paytoncodes" /></a> </p>
