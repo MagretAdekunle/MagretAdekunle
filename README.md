@@ -8,7 +8,7 @@
 -   🤘🏿 I studied at The University of Texas with a focus on Computer Science, Black Studies, and Math (Class of 2024).
   
 -   🏫  I will be attending Johns Hopkin University in 2025 (fall) to begin my Master of Computer Science with a concentration in Enterprise and Web Computing & Software Engineering. An subsequently another Master degree from Johns Hopkin University in Artificial Intelligence.                                                                                   
-- 🌱 I’m currently learning **Machine Learning.js & Artificial Intelligence**
+- 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
   
 - 👀 I’m interested in Machine Learning,Artificial Intelligence, Software Engineering, Full-Stack Engineering, & Front-End Engineering <br />
 
@@ -42,10 +42,9 @@ hobbies/interests (main) $ ls
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=magretadekunle&layout=compact&langs_count=8&card_width=450" />
 </a>
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=magretadekunle&border_radius=8" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=magretadekunle&border_radius=8" alt="GitHub Streak" /></a>
 
-<br>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=magretadekunle&border_radius=8)](https://git.io/streak-stats)
 
 
 
