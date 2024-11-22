@@ -43,8 +43,3 @@ hobbies/interests (main) $ ls
 </a>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=magretadekunle&border_radius=8" alt="GitHub Streak" /></a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=magretadekunle&border_radius=8)](https://git.io/streak-stats)
-
-
-
