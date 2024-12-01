@@ -12,7 +12,7 @@
   
 - 👀 I’m interested in Machine Learning,Artificial Intelligence, Software Engineering, Full-Stack Engineering, & Front-End Engineering <br />
 
-- 👨‍💻 You can find my portfolio at [magretadekunle.dev](http://magretadekunle.dev)
+- 👨‍💻 You can find my portfolio at [magretadekunle.dev](https://peaceful-rugelach-665507.netlify.app)
 
 - 📫 How to reach me **MagretAdekunle@gmail.com** or **LinkedIn- https://www.linkedin.com/in/magret-adekunle**
 
