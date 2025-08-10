@@ -7,7 +7,6 @@
   
 -   🤘🏿 I studied at The University of Texas with a focus on Computer Science, Black Studies, and Math (Class of 2024).
   
--   🏫  I will be attending Johns Hopkin University in 2025 (fall) to begin my Master of Artificial Intelligence.                                                                                   
 - 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
   
 - 👀 I’m interested in Machine Learning,Artificial Intelligence, Software Engineering, Full-Stack Engineering, & Front-End Engineering <br />
